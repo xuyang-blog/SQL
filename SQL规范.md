@@ -14,5 +14,5 @@
 
 **代码参考：**
 
-![image-20210923155229323](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210923155229323.png)
+![image-20210923155229323](https://github.com/xuyang-blog/Picture/blob/main/20210923SQL%E6%A0%BC%E5%BC%8F%E5%AE%9E%E4%BE%8B%E5%9B%BE.png)
 
